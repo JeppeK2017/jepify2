@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jepifydk/static/css/main.5f361e03.chunk.css",
-    "main.js": "/jepifydk/static/js/main.fef4bba2.chunk.js",
-    "main.js.map": "/jepifydk/static/js/main.fef4bba2.chunk.js.map",
+    "main.js": "/jepifydk/static/js/main.cc3fcf3f.chunk.js",
+    "main.js.map": "/jepifydk/static/js/main.cc3fcf3f.chunk.js.map",
     "runtime-main.js": "/jepifydk/static/js/runtime-main.7b1f0cfd.js",
     "runtime-main.js.map": "/jepifydk/static/js/runtime-main.7b1f0cfd.js.map",
     "static/js/2.f4ac6ea5.chunk.js": "/jepifydk/static/js/2.f4ac6ea5.chunk.js",
     "static/js/2.f4ac6ea5.chunk.js.map": "/jepifydk/static/js/2.f4ac6ea5.chunk.js.map",
     "index.html": "/jepifydk/index.html",
-    "precache-manifest.db4ae14a9342cb4c5a61c4fb8f924586.js": "/jepifydk/precache-manifest.db4ae14a9342cb4c5a61c4fb8f924586.js",
+    "precache-manifest.27db401012636e44d43fb84aad4354ae.js": "/jepifydk/precache-manifest.27db401012636e44d43fb84aad4354ae.js",
     "service-worker.js": "/jepifydk/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/jepifydk/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.f4ac6ea5.chunk.js.LICENSE.txt": "/jepifydk/static/js/2.f4ac6ea5.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7b1f0cfd.js",
     "static/js/2.f4ac6ea5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fef4bba2.chunk.js"
+    "static/js/main.cc3fcf3f.chunk.js"
   ]
 }
