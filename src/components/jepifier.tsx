@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 function jepify(text: String): String {
   const inputStringArray = text.split(' ');
 
-  let result: string = '';
+  let result: string;
 
   if (inputStringArray.length > 1) {
     const firstString = inputStringArray.shift()!.toLowerCase();
